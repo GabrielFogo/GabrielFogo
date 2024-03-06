@@ -1,7 +1,8 @@
 # Welcome to my profile !
 - I'm 19 years old;
 - I live in Brazil
-- I like rock and roll, reading comic books and playing video games;
+-  Studying back-end Technologies - C# | Entity Framework | PHP | Laravel;
+-  Studying front-end Technologies - Hmtl 5 | CSS | Javascript | React | Angular;
 # My Activity
 <p align="center">
  <img src='https://streak-stats.demolab.com?user=GabrielFogo&theme=darcula&hide_border=false&mode=weekly&card_width=500'/>
