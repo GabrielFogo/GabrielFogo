@@ -2,7 +2,7 @@
 - I'm 19 years old;
 - I live in Brazil
 -  Studying back-end Technologies - C# | Entity Framework | PHP | Laravel;
--  Studying front-end Technologies - Hmtl 5 | CSS | Javascript | React | Angular;
+-  Studying front-end Technologies - Javascript | Typescript | React;
 # My Activity
 <p align="center">
  <img src='https://streak-stats.demolab.com?user=GabrielFogo&theme=darcula&hide_border=false&mode=weekly&card_width=500'/>
