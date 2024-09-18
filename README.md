@@ -1,7 +1,7 @@
 # Welcome to my profile !
 - I'm 19 years old;
 - I live in Brazil
--  Studying back-end Technologies - C# | Entity Framework | PHP | Laravel;
+-  Studying back-end Technologies - C# | Entity Framework | Node js;
 -  Studying front-end Technologies - Javascript | Typescript | React;
 # My Activity
 <p align="center">
